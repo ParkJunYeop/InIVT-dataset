@@ -6,7 +6,7 @@ The scenarios encompass incidents around intersection areas with various forms a
 
 1.Straight path scenario
 
-![image](https://github.com/ParkJunYeop/InIVT-dataset/assets/61575966/082334ac-e3d5-4951-948f-3483df112664)
+![image](https://github.com/ParkJunYeop/InIVT-dataset/assets/61575966/2e3d8af2-73a7-42e4-a90a-8ab32e9515a3)
 
 2. Left turn scenario
 
