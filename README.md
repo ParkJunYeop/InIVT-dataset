@@ -21,5 +21,6 @@ The scenarios encompass incidents around intersection areas with various forms a
 ![image](https://github.com/ParkJunYeop/InIVT-dataset/assets/61575966/93408d09-db10-435b-b1eb-993cf9ec9810)
 
 
-The detailed description for the dataset will be described from August of 2024
-The whole dataset will be available at Katech Dataset Platform(KADAP) from December of 2024
+The detailed description will be uploaded starting in August 2024.
+
+The whole dataset will be available at Katech Dataset Platform(KADAP) from December 2024.
